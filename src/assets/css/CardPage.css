@@ -1,0 +1,13 @@
+.containor{
+    display:flex; 
+    align-items: center;
+    flex-wrap: wrap;
+    gap:60px;
+    /* transition: transform 0.3s ease, box-shadow 0.3s ease; */
+}
+/* .containor:hover{
+    box-shadow: 5px 5px 10px ;
+} */
+/* .classimg:hover{
+    box-shadow: 5px 5px 10px ;
+} */

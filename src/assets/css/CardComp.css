@@ -1,0 +1,27 @@
+.classimg{
+width: 300px;
+height:150px;
+padding-left:70px;
+padding-top: 20px;
+}
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 450px;
+    height: 380px;
+    /* padding: 20px; */
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+ .text{
+    text-align: center;
+    color:  #555;
+ }
+ /* .card :hover{
+   box-shadow: 5px 5px 10px ;
+}  */
+.teri:hover{
+   /* box-shadow: 5px 5px 10px ; */
+   box-shadow: 10px 0px 200px 9px black ;
+} 
